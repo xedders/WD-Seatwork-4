@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Feature website with two pages. (Optional)
+  Feature website with multiple pages.
 </div>
 
 <br />
