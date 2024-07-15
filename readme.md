@@ -13,14 +13,14 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Feature website with two pages. (Optional)
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=xedders/WD-Seatwork-4)
 
 ---
 
@@ -60,10 +60,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- The project consists of feature pages.
+- The purpose of seatwork 4 is to enhance my proficiency in html and css in creating feature pages.
+- Hover animation
+- Accordion gallery with description
 
 ### Key Components
 <!-- TODO: List of Key Components -->
