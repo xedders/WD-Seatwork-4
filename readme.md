@@ -9,11 +9,11 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork 4</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Feature website with multiple pages.
+  This project is a feature website, I have made a website that is about the Korean Makeup brand Romand.
 </div>
 
 <br />
@@ -57,10 +57,10 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+As previously explained, this website shows my skills in HTML and CSS with a number of important features. The website consists of three primary pages: a landing page, two gallery sites that feature products from my chosen brand, and a third page that showcases other products. Every gallery page is devoted to showcasing different products, highlighting their distinctive features and design components. This arrangement allows users' exploration of a large collection, which helps them understand the brand's offers in greater detail.
 
 Guiding Question:
-- The project consists of feature pages.
+- The project consists of two galleries of different products and their descriptions.
 - The purpose of seatwork 4 is to enhance my proficiency in html and css in creating feature pages.
 - Hover animation
 - Accordion gallery with description
@@ -110,4 +110,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| CodePen | This website is where I get my designs and references from, this is where fellow website designers share their works to help other designers. | https://codepen.io/ |
+| Pinterest | Pinterest has a wide collection of website designs and more, this is where I get inspiration for my other designs. | https://www.pinterest.com/ |
